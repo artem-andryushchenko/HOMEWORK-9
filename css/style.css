@@ -16,8 +16,8 @@
 }
 
 .header-logo  {
-       color: var(--logo-color);
-font-family: Raleway;
+color: var(--logo-color);
+font-family: "Raleway";
 font-size: 26px;
 font-style: normal;
 font-weight: 700;
@@ -28,7 +28,7 @@ letter-spacing: 0.78px;
 
 .logo-color  {
 color: var(--accent-color);
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 26px;
 font-style: normal;
 font-weight: 700;
@@ -37,9 +37,9 @@ letter-spacing: 0.78px;
 }
 
 .log-color   {
-color: var(--logo-color);
+color: var(--accent-color);
 color: #2196F3;
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 26px;
 font-style: normal;
 font-weight: 700;
@@ -48,9 +48,9 @@ letter-spacing: 0.78px;
 }
 
 .head-logo {
-color: var(--accent-color);
+color: var(--logo-color);
 color: #FFF;
-font-family: Raleway;
+font-family: "Raleway";
 font-size: 26px;
 font-style: normal;
 font-weight: 700;
@@ -60,7 +60,7 @@ letter-spacing: 0.78px;
 
 .nav-link {
  color: var(--title-color);
- font-family: Roboto;
+ font-family: "Roboto";
  font-size: 14px;
  font-style: normal; 
  font-weight: 500;
@@ -75,7 +75,7 @@ color: var(--accent-color);
 
 .header-link {
     color: var(--accent-color);
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 14px;
     font-style: normal; 
     font-weight: 500;
@@ -95,7 +95,7 @@ background-color: var(--footer-beckground);
 .hero-title {
     color: var(--main-background);
     text-align: center;
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 44px;
     font-style: normal; 
     font-weight: 900;
@@ -136,3 +136,4 @@ text-transform: uppercase;
 .footer {
     background-color: var(--footer-beckground);
 }
+
